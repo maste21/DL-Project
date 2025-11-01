@@ -41,22 +41,24 @@ pip install streamlit_extras
 pip install tqdm
 ```
 
+<br />
+
+**Run the Project**
+
+To run this project, follow these steps:
+
+1. Clone the repository: ```git clone https://github.com/maste21/DL-Project.git```
+2. Install the required packages: ```pip install -r requirements.txt```
+3. Run the Streamlit app: ```streamlit run app.py```
+4. Access the app in browser at ```http://localhost:8501```
+
+<br />
+
 **Note:** If face "ImportError: DLL load failed" error while installing TensorFlow, please do below
 ```python
 pip uninstall tensorflow
 pip install tensorflow==2.12.0 --upgrade
 ```
-
-<br />
-
-**Usage**
-
-To use this project, follow these steps:
-
-1. Clone the repository: ```git clone https://github.com/gopiashokan/Bird-Sound-Classification-using-Deep-Learning.git```
-2. Install the required packages: ```pip install -r requirements.txt```
-3. Run the Streamlit app: ```streamlit run app.py```
-4. Access the app in browser at ```http://localhost:8501```
 
 <br />
 
