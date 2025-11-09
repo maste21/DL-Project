@@ -21,7 +21,7 @@ In the realm of environmental conservation and wildlife research, accurately ide
 - Pandas
 - Matplotlib
 - Streamlit
-- Hugging Face
+
 
 <br />
 
@@ -92,7 +92,7 @@ pip install tensorflow==2.12.0 --upgrade
 
 #### Model Deployment and Inference:
 
-   - Following the completion of model training and evaluation, the trained model is saved to enable seamless deployment and inference on new audio for classification purposes. To facilitate this process, a user-friendly Streamlit application is developed and deployed on the Hugging Face platform.
+   - Following the completion of model training and evaluation, the trained model is saved to enable seamless deployment and inference on new audio for classification purposes. To facilitate this process, a user-friendly Streamlit application is developed.
 
    - This application empowers users to upload new audio files and obtain real-time classification results, providing a convenient interface for leveraging the model's capabilities in practical scenarios.
 
